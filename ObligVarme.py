@@ -34,7 +34,7 @@ else:
     print(gamma_x)
     
 if gamma_y >=1/4:
-    print("FUCKED GAMMA_X " + str(gamma_y))
+    print("FUCKED GAMMA_Y " + str(gamma_y))
     print("k er: " + str(k))
 else: 
     print(gamma_y)
